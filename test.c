@@ -9,6 +9,7 @@ int Main() {
     scanf("%d");
     
     printf("Program for Multiplication ");
+    printf("----------");
     printf("Enter first number: ");
     scanf("%d");
     printf("Enter second number number: ");
